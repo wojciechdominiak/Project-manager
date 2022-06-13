@@ -1,7 +1,7 @@
-import { Draggable } from "../models/drag-drop.js";
-import { Component } from "./base-components.js";
-import { Autobind } from "../decorators/autobind.js";
-import { Project } from "../models/project.js";
+import { Draggable } from "../models/drag-drop";
+import { Component } from "./base-components";
+import { Autobind } from "../decorators/autobind";
+import { Project } from "../models/project";
 
 //ProjectItem Class
 export class ProjectItem
@@ -14,7 +14,7 @@ export class ProjectItem
     if (this.project.people === 1) {
       return this.project.people + " Person";
     } else {
-      return this.project.people + " Persons";
+      return this.project.people + " Persochuhns";
     }
   }
 
