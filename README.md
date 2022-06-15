@@ -2,7 +2,7 @@
 
 The purpose of the application is to create and store projects.
 
-The user can divide this projects on active finished.
+The user can divide this projects on active or finished categories.
 
 ## Live demo
 
